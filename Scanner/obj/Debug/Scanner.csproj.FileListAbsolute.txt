@@ -1,0 +1,9 @@
+E:\Computer Science\F.C.I Level 3 Second semester\Software Develeopment\C# Section and Lectures Work\Scanner\Scanner\bin\Debug\Scanner.exe.config
+E:\Computer Science\F.C.I Level 3 Second semester\Software Develeopment\C# Section and Lectures Work\Scanner\Scanner\bin\Debug\Scanner.exe
+E:\Computer Science\F.C.I Level 3 Second semester\Software Develeopment\C# Section and Lectures Work\Scanner\Scanner\bin\Debug\Scanner.pdb
+E:\Computer Science\F.C.I Level 3 Second semester\Software Develeopment\C# Section and Lectures Work\Scanner\Scanner\obj\Debug\Scanner.csprojResolveAssemblyReference.cache
+E:\Computer Science\F.C.I Level 3 Second semester\Software Develeopment\C# Section and Lectures Work\Scanner\Scanner\obj\Debug\Scanner.Properties.Resources.resources
+E:\Computer Science\F.C.I Level 3 Second semester\Software Develeopment\C# Section and Lectures Work\Scanner\Scanner\obj\Debug\Scanner.csproj.GenerateResource.Cache
+E:\Computer Science\F.C.I Level 3 Second semester\Software Develeopment\C# Section and Lectures Work\Scanner\Scanner\obj\Debug\Scanner.exe
+E:\Computer Science\F.C.I Level 3 Second semester\Software Develeopment\C# Section and Lectures Work\Scanner\Scanner\obj\Debug\Scanner.pdb
+E:\Computer Science\F.C.I Level 3 Second semester\Software Develeopment\C# Section and Lectures Work\Scanner\Scanner\obj\Debug\Scanner.Form1.resources
